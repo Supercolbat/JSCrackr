@@ -1,0 +1,12 @@
+# Build directories
+build/
+dist/
+JSCrackr.egg-info/
+
+# Cache
+jscrackr/__pycache__/
+tests/__pycache__/
+
+# Testing
+.pytest_cache/
+*.js
